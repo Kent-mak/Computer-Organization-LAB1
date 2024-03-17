@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+#### tb_alu.sv ####
+==== Test  0 RUNNING ====
+[case  0] 0xffff0000 0000 0x0000ffff            
+[case  1] 0x3113c398 0001 0x088e4954            
+[case  2] 0xffffffff 0010 0x00000001            
+[case  3] 0x7eda5023 0110 0x2ec36ae5            
+[case  4] 0x7eda5023 0110 0x2ec36ae5 (ignore zv)
+[case  5] 0xffffffff 0111 0x00000001            
+[case  6] 0x00000000 1100 0x00000000            
+==== Test  0 PASSED ====
+#### Test Result ####
+Passed  1 : 0
+Failed  0 :
+#### all passed!
+$finish called at time : 8 ns : File "C:/Users/DELL/OneDrive/Desktop/NYCU/Computer Organization/Lab1/testbench/tb_alu.sv" Line 64

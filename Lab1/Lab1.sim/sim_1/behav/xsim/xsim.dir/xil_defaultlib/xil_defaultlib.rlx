@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/DELL/OneDrive/Desktop/NYCU/Computer Organization/Lab1/Lab1/Lab1.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/DELL/OneDrive/Desktop/NYCU/Computer Organization/Lab1/src/alu.v,1710614740,verilog,,C:/Users/DELL/OneDrive/Desktop/NYCU/Computer Organization/Lab1/src/bit_alu.v,,alu,,uvm,,,,,,
+C:/Users/DELL/OneDrive/Desktop/NYCU/Computer Organization/Lab1/src/bit_alu.v,1710532597,verilog,,C:/Users/DELL/OneDrive/Desktop/NYCU/Computer Organization/Lab1/src/msb_bit_alu.v,,bit_alu,,uvm,,,,,,
+C:/Users/DELL/OneDrive/Desktop/NYCU/Computer Organization/Lab1/src/msb_bit_alu.v,1710532402,verilog,,,,msb_bit_alu,,uvm,,,,,,
+C:/Users/DELL/OneDrive/Desktop/NYCU/Computer Organization/Lab1/src/reg_file.v,1710661808,verilog,,,,reg_file,,uvm,,,,,,
+C:/Users/DELL/OneDrive/Desktop/NYCU/Computer Organization/Lab1/testbench/tb_alu.sv,1710252602,systemVerilog,,,,tb_alu,,uvm,,,,,,
+C:/Users/DELL/OneDrive/Desktop/NYCU/Computer Organization/Lab1/testbench/tb_reg_file.sv,1710252602,systemVerilog,,,,tb_reg_file,,uvm,,,,,,
